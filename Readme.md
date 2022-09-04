@@ -6,7 +6,7 @@
 
 ## Preview:
 
-![Desktop view](./assets/law.png)
+![Desktop view](./Law_Landing_Page.png)
 
 ## Built with:
 
